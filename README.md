@@ -47,3 +47,12 @@ Dans le contexte de la gestion du système d'information de la base aérienne d'
 | PUT /entretiens/{id}        | ENTRETIEN NON MODIFIE                | L'ID pourrait ne pas exister. L'entretien n'a pas été mis à jour. |
 | DELETE /entretiens/{id}     | ENTRETIEN NON SUPPRIME               | L'entretien avec l'ID spécifié n'a pas été supprimé. |
 
+## Schéma des flux de données
+
+![SCHEMA REQUETTE](https://github.com/WilliamBerne95/Api_Gestion_Entretien_Avions/assets/110680560/afd26cfd-a7dc-4ecb-ad88-69fd6bc56b2e)
+
+## Dépot GITHUB
+
+https://github.com/WilliamBerne95/Api_Gestion_Entretien_Avions
+
+
